@@ -1,0 +1,390 @@
+ab-minimax
+depth=3
+Fn2
+
+-------------- ANDANTINO ----------------
+Bot1: White
+----------  BOT-1's TURN  ---------- 
+(11, 10)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(10, 9), (10, 11)])
+('[bots]best_score:', 3, 'best_move: ', (10, 9))
+("[bots]Computer's's move: ", (10, 9))
+(10, 9)
+('[engine]Search time: ', 1.5327939987182617)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(10, 11), (11, 9), (9, 9)])
+('[bots]best_score:', 1, 'best_move: ', (10, 11))
+("[bots]Computer's's move: ", (10, 11))
+(10, 11)
+('[engine]Search time: ', 3.438551664352417)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(9, 11), (11, 11), (11, 9), (9, 9)])
+('[bots]best_score:', 3, 'best_move: ', (9, 11))
+("[bots]Computer's's move: ", (9, 11))
+(9, 11)
+('[engine]Search time: ', 4.569490432739258)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(10, 12), (11, 11), (11, 9), (9, 10), (9, 9)])
+('[bots]best_score:', 1, 'best_move: ', (10, 12))
+('[bots]best_score:', 3, 'best_move: ', (9, 10))
+("[bots]Computer's's move: ", (9, 10))
+(9, 10)
+('[engine]Search time: ', 8.303600788116455)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (10, 12), (11, 11), (11, 9)])
+('[bots]best_score:', 1, 'best_move: ', (8, 11))
+('[bots]best_score:', 3, 'best_move: ', (10, 12))
+("[bots]Computer's's move: ", (10, 12))
+(10, 12)
+('[engine]Search time: ', 11.950135946273804)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (11, 12), (11, 11), (11, 9), (9, 12)])
+('[bots]best_score:', -197, 'best_move: ', (8, 11))
+('[bots]best_score:', -1, 'best_move: ', (11, 12))
+('[bots]best_score:', 1, 'best_move: ', (11, 11))
+('[bots]best_score:', 2, 'best_move: ', (9, 12))
+("[bots]Computer's's move: ", (9, 12))
+(9, 12)
+('[engine]Search time: ', 17.201353311538696)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (9, 13), (11, 12), (11, 11), (11, 9)])
+('[bots]best_score:', 2, 'best_move: ', (8, 11))
+('[bots]best_score:', 3, 'best_move: ', (11, 12))
+("[bots]Computer's's move: ", (11, 12))
+(11, 12)
+('[engine]Search time: ', 16.04754090309143)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (9, 13), (11, 11), (11, 9), (10, 13)])
+('[bots]best_score:', 1, 'best_move: ', (8, 11))
+('[bots]best_score:', 2, 'best_move: ', (11, 9))
+("[bots]Computer's's move: ", (11, 9))
+(11, 9)
+('[engine]Search time: ', 25.798682928085327)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (9, 13), (11, 11), (11, 8), (12, 10), (10, 13)])
+('[bots]best_score:', 3, 'best_move: ', (8, 11))
+('[bots]best_score:', 5, 'best_move: ', (11, 8))
+("[bots]Computer's's move: ", (11, 8))
+(11, 8)
+('[engine]Search time: ', 17.379606246948242)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (9, 13), (11, 11), (12, 10), (12, 8), (10, 8), (10, 13)])
+('[bots]best_score:', -199, 'best_move: ', (8, 11))
+('[bots]best_score:', -195, 'best_move: ', (9, 13))
+('[bots]best_score:', -2, 'best_move: ', (11, 11))
+('[bots]best_score:', 1, 'best_move: ', (12, 10))
+("[bots]Computer's's move: ", (12, 10))
+(12, 10)
+('[engine]Search time: ', 46.86290693283081)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (9, 13), (11, 11), (12, 9), (12, 8), (10, 8), (10, 13)])
+('[bots]best_score:', 6, 'best_move: ', (8, 11))
+('[bots]best_score:', 9, 'best_move: ', (10, 8))
+("[bots]Computer's's move: ", (10, 8))
+(10, 8)
+('[engine]Search time: ', 36.27466583251953)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(8, 11), (9, 9), (9, 13), (11, 11), (12, 9), (12, 8), (10, 7), (10, 13)])
+('[bots]best_score:', -1, 'best_move: ', (8, 11))
+('[bots]best_score:', 1, 'best_move: ', (9, 9))
+("[bots]Computer's's move: ", (9, 9))
+(9, 9)
+('[engine]Search time: ', 54.81429409980774)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(9, 8), (8, 9), (8, 11), (9, 13), (11, 11), (12, 9), (12, 8), (10, 7), (10, 13)])
+('[bots]best_score:', 8, 'best_move: ', (9, 8))
+('[bots]best_score:', 9, 'best_move: ', (11, 11))
+("[bots]Computer's's move: ", (11, 11))
+(11, 11)
+('[engine]Search time: ', 62.7795844078064)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(9, 8), (8, 9), (8, 11), (9, 13), (12, 9), (12, 8), (12, 11), (10, 7), (10, 13), (12, 12)])
+('[bots]best_score:', -5, 'best_move: ', (9, 8))
+('[bots]best_score:', -4, 'best_move: ', (8, 9))
+('[bots]best_score:', 0, 'best_move: ', (8, 11))
+("[bots]Computer's's move: ", (8, 11))
+(8, 11)
+('[engine]Search time: ', 75.60248184204102)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(8, 10), (8, 12), (9, 8), (8, 9), (9, 13), (12, 9), (12, 8), (12, 11), (10, 7), (10, 13), (12, 12)])
+('[bots]best_score:', 8, 'best_move: ', (8, 10))
+('[bots]best_score:', 9, 'best_move: ', (9, 13))
+("[bots]Computer's's move: ", (9, 13))
+(9, 13)
+('[engine]Search time: ', 112.06069707870483)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(8, 10), (8, 12), (9, 8), (8, 9), (8, 13), (12, 9), (12, 8), (12, 11), (10, 13), (10, 7), (12, 12)])
+('[bots]best_score:', 2, 'best_move: ', (8, 10))
+("[bots]Computer's's move: ", (8, 10))
+(8, 10)
+('[engine]Search time: ', 69.73191118240356)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 11), (8, 9), (8, 12), (9, 8), (8, 13), (12, 9), (12, 8), (12, 11), (10, 13), (10, 7), (12, 12)])
+('[bots]best_score:', 5, 'best_move: ', (7, 11))
+('[bots]best_score:', 6, 'best_move: ', (9, 8))
+("[bots]Computer's's move: ", (9, 8))
+(9, 8)
+('[engine]Search time: ', 97.93386673927307)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 11), (8, 9), (8, 12), (8, 13), (12, 9), (12, 8), (12, 11), (9, 7), (10, 13), (10, 7), (12, 12)])
+('[bots]best_score:', -3, 'best_move: ', (7, 11))
+('[bots]best_score:', -2, 'best_move: ', (12, 12))
+("[bots]Computer's's move: ", (12, 12))
+(12, 12)
+('[engine]Search time: ', 88.19616436958313)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 11), (8, 9), (8, 12), (8, 13), (12, 9), (12, 8), (12, 11), (11, 13), (9, 7), (10, 13), (10, 7)])
+('[bots]best_score:', 6, 'best_move: ', (7, 11))
+('[bots]best_score:', 12, 'best_move: ', (8, 9))
+('[bots]best_score:', 13, 'best_move: ', (12, 8))
+("[bots]Computer's's move: ", (12, 8))
+(12, 8)
+('[engine]Search time: ', 110.97747802734375)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 11), (8, 9), (8, 12), (8, 13), (12, 9), (12, 11), (11, 13), (9, 7), (10, 13), (10, 7), (11, 7)])
+('[bots]best_score:', -200, 'best_move: ', (11, 7))
+("[bots]Computer's's move: ", (11, 7))
+(11, 7)
+('[engine]Search time: ', 112.45711302757263)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 11), (8, 9), (8, 12), (8, 13), (10, 7), (12, 7), (12, 9), (12, 11), (11, 13), (9, 7), (10, 13)])
+('[bots]best_score:', 10, 'best_move: ', (7, 11))
+('[bots]best_score:', 15, 'best_move: ', (8, 9))
+("[bots]Computer's's move: ", (8, 9))
+(8, 9)
+('[engine]Search time: ', 113.38426113128662)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 9), (7, 11), (8, 12), (8, 13), (10, 7), (12, 7), (12, 9), (12, 11), (11, 13), (8, 8), (9, 7), (10, 13)])
+('[bots]best_score:', -197, 'best_move: ', (8, 8))
+("[bots]Computer's's move: ", (8, 8))
+(8, 8)
+('[engine]Search time: ', 139.93036198616028)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 9), (8, 7), (7, 11), (8, 12), (8, 13), (10, 7), (12, 7), (12, 9), (12, 11), (11, 13), (9, 7), (10, 13)])
+('[bots]best_score:', -398, 'best_move: ', (7, 9))
+('[bots]best_score:', 5, 'best_move: ', (12, 7))
+("[bots]Computer's's move: ", (12, 7))
+(12, 7)
+('[engine]Search time: ', 110.28719878196716)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 9), (8, 7), (7, 11), (8, 12), (8, 13), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (9, 7), (10, 13), (13, 8)])
+('[bots]best_score:', -5, 'best_move: ', (13, 8))
+("[bots]Computer's's move: ", (13, 8))
+(13, 8)
+('[engine]Search time: ', 218.8619704246521)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 9), (8, 7), (7, 11), (8, 12), (8, 13), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (9, 7), (10, 13)])
+('[bots]best_score:', -395, 'best_move: ', (7, 9))
+("[bots]Computer's's move: ", (7, 9))
+(7, 9)
+('[engine]Search time: ', 54.92147612571716)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 8), (8, 7), (7, 10), (7, 11), (8, 12), (8, 13), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (9, 7), (10, 13)])
+('[bots]best_score:', -1595, 'best_move: ', (7, 8))
+('[bots]best_score:', -1398, 'best_move: ', (8, 7))
+('[bots]best_score:', -1, 'best_move: ', (7, 10))
+('[bots]best_score:', 0, 'best_move: ', (7, 11))
+('[bots]best_score:', 1, 'best_move: ', (8, 13))
+("[bots]Computer's's move: ", (8, 13))
+(8, 13)
+('[engine]Search time: ', 155.33950805664062)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 8), (8, 7), (7, 10), (7, 11), (8, 12), (9, 14), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (9, 7), (10, 13)])
+('[bots]best_score:', -1995, 'best_move: ', (7, 8))
+('[bots]best_score:', -1802, 'best_move: ', (8, 7))
+('[bots]best_score:', 2, 'best_move: ', (7, 10))
+("[bots]Computer's's move: ", (7, 10))
+(7, 10)
+('[engine]Search time: ', 114.56518816947937)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 8), (8, 7), (7, 11), (8, 12), (9, 14), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (6, 9), (9, 7), (10, 13)])
+('[bots]best_score:', 0, 'best_move: ', (7, 8))
+('[bots]best_score:', 3, 'best_move: ', (8, 7))
+('[bots]best_score:', 5, 'best_move: ', (8, 12))
+("[bots]Computer's's move: ", (8, 12))
+(8, 12)
+('[engine]Search time: ', 99.81566381454468)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 8), (8, 7), (7, 11), (7, 13), (9, 14), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (6, 9), (9, 7), (10, 13)])
+('[bots]best_score:', 1, 'best_move: ', (7, 13))
+("[bots]Computer's's move: ", (7, 13))
+(7, 13)
+('[engine]Search time: ', 81.30135035514832)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 8), (8, 7), (7, 11), (7, 12), (8, 14), (9, 14), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (6, 9), (9, 7), (10, 13)])
+('[bots]best_score:', -1602, 'best_move: ', (7, 8))
+('[bots]best_score:', -1596, 'best_move: ', (8, 7))
+('[bots]best_score:', 0, 'best_move: ', (7, 12))
+('[bots]best_score:', 2, 'best_move: ', (8, 14))
+("[bots]Computer's's move: ", (8, 14))
+(8, 14)
+('[engine]Search time: ', 170.3896951675415)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 8), (8, 7), (7, 11), (7, 12), (9, 14), (7, 14), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (6, 9), (9, 7), (10, 13)])
+('[bots]best_score:', -403, 'best_move: ', (7, 8))
+('[bots]best_score:', -1, 'best_move: ', (8, 7))
+('[bots]best_score:', 0, 'best_move: ', (7, 11))
+('[bots]best_score:', 2, 'best_move: ', (7, 12))
+('[bots]best_score:', 3, 'best_move: ', (9, 14))
+("[bots]Computer's's move: ", (9, 14))
+(9, 14)
+('[engine]Search time: ', 217.81917238235474)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 8), (8, 7), (7, 11), (7, 12), (7, 14), (8, 15), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (6, 9), (9, 7), (10, 14), (10, 13)])
+('[bots]best_score:', -201, 'best_move: ', (7, 8))
+('[bots]best_score:', -196, 'best_move: ', (7, 11))
+('[bots]best_score:', -2, 'best_move: ', (7, 12))
+('[bots]best_score:', 1, 'best_move: ', (7, 14))
+("[bots]Computer's's move: ", (7, 14))
+(7, 14)
+('[engine]Search time: ', 262.01380252838135)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 13), (7, 15), (7, 8), (8, 7), (7, 11), (7, 12), (8, 15), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (6, 9), (9, 7), (10, 14), (10, 13)])
+('[bots]best_score:', 1, 'best_move: ', (6, 13))
+("[bots]Computer's's move: ", (6, 13))
+(6, 13)
+('[engine]Search time: ', 114.2055151462555)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 14), (7, 15), (7, 8), (8, 7), (7, 11), (7, 12), (8, 15), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (6, 9), (9, 7), (10, 14), (10, 13)])
+('[bots]best_score:', -2, 'best_move: ', (6, 14))
+('[bots]best_score:', 0, 'best_move: ', (7, 8))
+("[bots]Computer's's move: ", (7, 8))
+(7, 8)
+('[engine]Search time: ', 263.1868255138397)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 9), (7, 7), (6, 14), (7, 15), (8, 7), (7, 11), (7, 12), (8, 15), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (9, 7), (10, 14), (10, 13)])
+('[bots]best_score:', -595, 'best_move: ', (6, 9))
+('[bots]best_score:', 3, 'best_move: ', (7, 7))
+('[bots]best_score:', 4, 'best_move: ', (8, 7))
+("[bots]Computer's's move: ", (8, 7))
+(8, 7)
+('[engine]Search time: ', 263.43691897392273)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 9), (7, 7), (6, 14), (7, 15), (7, 11), (7, 12), (8, 15), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (9, 7), (10, 14), (10, 13)])
+('[bots]best_score:', -4, 'best_move: ', (6, 9))
+('[bots]best_score:', 1, 'best_move: ', (6, 14))
+("[bots]Computer's's move: ", (6, 14))
+(6, 14)
+('[engine]Search time: ', 288.109162569046)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(5, 13), (6, 15), (6, 9), (7, 7), (7, 15), (7, 11), (7, 12), (8, 15), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (9, 7), (10, 14), (10, 13)])
+('[bots]best_score:', -1, 'best_move: ', (5, 13))
+('[bots]best_score:', 2, 'best_move: ', (7, 7))
+("[bots]Computer's's move: ", (7, 7))
+(7, 7)
+('[engine]Search time: ', 174.43496179580688)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(5, 13), (6, 15), (6, 7), (6, 9), (7, 15), (7, 11), (7, 12), (8, 15), (10, 7), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (8, 6), (9, 7), (10, 14), (10, 13)])
+('[bots]best_score:', -601, 'best_move: ', (5, 13))
+('[bots]best_score:', -600, 'best_move: ', (6, 15))
+('[bots]best_score:', -2, 'best_move: ', (6, 7))
+('[bots]best_score:', 0, 'best_move: ', (10, 7))
+("[bots]Computer's's move: ", (10, 7))
+(10, 7)
+('[engine]Search time: ', 3026.471470594406)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(5, 13), (6, 15), (6, 7), (6, 9), (7, 15), (7, 11), (7, 12), (8, 15), (9, 7), (11, 6), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (8, 6), (10, 14), (10, 13)])
+('[bots]best_score:', -2, 'best_move: ', (5, 13))
+('[bots]best_score:', 2, 'best_move: ', (6, 7))
+("[bots]Computer's's move: ", (6, 7))
+(6, 7)
+('[engine]Search time: ', 234.47771906852722)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(5, 13), (6, 15), (6, 8), (6, 9), (7, 15), (7, 11), (7, 12), (8, 15), (9, 7), (11, 6), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (7, 6), (8, 6), (10, 14), (10, 13)])
+('[bots]best_score:', -2995, 'best_move: ', (5, 13))
+('[bots]best_score:', -2795, 'best_move: ', (6, 15))
+('[bots]best_score:', -1997, 'best_move: ', (6, 8))
+('[bots]best_score:', -998, 'best_move: ', (6, 9))
+("[bots]Computer's's move: ", (6, 9))
+(6, 9)
+('[engine]Search time: ', 327.11810183525085)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 8), (6, 10), (5, 13), (6, 15), (7, 15), (7, 11), (7, 12), (8, 15), (9, 7), (11, 6), (12, 6), (12, 9), (12, 11), (11, 13), (13, 7), (7, 6), (8, 6), (10, 14), (10, 13)])
+('[bots]best_score:', 0, 'best_move: ', (6, 8))
+('[bots]best_score:', 3, 'best_move: ', (8, 15))
+('[bots]best_score:', 4, 'best_move: ', (12, 11))
+("[bots]Computer's's move: ", (12, 11))
+(12, 11)
+('[engine]Search time: ', 502.4858753681183)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 8), (6, 10), (5, 13), (6, 15), (7, 15), (7, 11), (7, 12), (8, 15), (9, 7), (11, 6), (12, 6), (12, 9), (13, 10), (11, 13), (13, 12), (13, 7), (7, 6), (8, 6), (10, 14), (10, 13)])
+('[bots]best_score:', -2599, 'best_move: ', (6, 8))
+('[bots]best_score:', -1595, 'best_move: ', (6, 10))
+('[bots]best_score:', -997, 'best_move: ', (12, 9))
+('[bots]best_score:', -996, 'best_move: ', (13, 10))
+("[bots]Computer's's move: ", (13, 10))
+(13, 10)
+('[engine]Search time: ', 342.55589723587036)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 8), (6, 10), (5, 13), (6, 15), (7, 15), (7, 11), (7, 12), (8, 15), (9, 7), (11, 6), (12, 6), (12, 9), (11, 13), (13, 12), (13, 9), (13, 7), (13, 11), (7, 6), (8, 6), (10, 14), (10, 13)])
+('[bots]best_score:', -4, 'best_move: ', (6, 8))
+('[bots]best_score:', 4, 'best_move: ', (5, 13))
+("[bots]Computer's's move: ", (5, 13))
+(5, 13)
+('[engine]Search time: ', 592.5763223171234)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 8), (6, 10), (5, 14), (6, 15), (7, 15), (7, 11), (7, 12), (8, 15), (9, 7), (11, 6), (12, 6), (12, 9), (11, 13), (13, 12), (13, 9), (13, 7), (13, 11), (6, 12), (7, 6), (8, 6), (10, 14), (10, 13)])
+('[bots]best_score:', -3000, 'best_move: ', (6, 8))
+('[bots]best_score:', -1195, 'best_move: ', (6, 10))
+('[bots]best_score:', -1003, 'best_move: ', (12, 9))
+('[bots]best_score:', -996, 'best_move: ', (11, 13))
+('[bots]best_score:', -798, 'best_move: ', (7, 6))
+('[bots]best_score:', -796, 'best_move: ', (10, 14))
+("[bots]Computer's's move: ", (10, 14))
+(10, 14)
+('[engine]Search time: ', 754.9222912788391)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 8), (6, 10), (5, 14), (6, 15), (7, 15), (7, 11), (7, 12), (8, 15), (9, 7), (11, 6), (9, 15), (10, 13), (12, 6), (12, 9), (11, 13), (13, 12), (13, 9), (13, 7), (13, 11), (6, 12), (7, 6), (8, 6)])
+('[bots]best_score:', 0, 'best_move: ', (6, 8))
+('[bots]best_score:', 3, 'best_move: ', (6, 10))
+('[bots]best_score:', 4, 'best_move: ', (7, 15))
+("[bots]Computer's's move: ", (7, 15))
+(7, 15)
+('[engine]Search time: ', 896.7892706394196)
+

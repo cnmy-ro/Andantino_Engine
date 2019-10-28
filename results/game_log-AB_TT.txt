@@ -1,0 +1,246 @@
+ab-negamax-ID
+depth=3
+Fn2
+
+--------------- ANDANTINO ----------------
+Bot-1: White
+
+----------  BOT-1's TURN  ---------- 
+(10, 9)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(9, 9), (11, 10)])
+('[bots]best_score:', 5, 'best_move: ', (9, 9))
+("[bots]Computer's's move: ", (9, 9))
+(9, 9)
+('[engine]Search time: ', 0.6673927307128906)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(10, 8), (11, 10), (9, 10)])
+('[bots]best_score:', 4, 'best_move: ', (10, 8))
+('[bots]best_score:', 5, 'best_move: ', (11, 10))
+("[bots]Computer's's move: ", (11, 10))
+(11, 10)
+('[engine]Search time: ', 1.3571133613586426)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(10, 8), (11, 9), (10, 11), (9, 10)])
+('[bots]best_score:', 4, 'best_move: ', (10, 8))
+('[bots]best_score:', 5, 'best_move: ', (9, 10))
+("[bots]Computer's's move: ", (9, 10))
+(9, 10)
+('[engine]Search time: ', 2.1249587535858154)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(10, 8), (11, 9), (10, 11), (8, 9), (9, 11)])
+('[bots]best_score:', 1, 'best_move: ', (10, 8))
+('[bots]best_score:', 4, 'best_move: ', (11, 9))
+('[bots]best_score:', 5, 'best_move: ', (9, 11))
+("[bots]Computer's's move: ", (9, 11))
+(9, 11)
+('[engine]Search time: ', 3.1970832347869873)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(8, 11), (10, 11), (10, 8), (11, 9), (8, 9)])
+('[bots]best_score:', 5, 'best_move: ', (8, 11))
+("[bots]Computer's's move: ", (8, 11))
+(8, 11)
+('[engine]Search time: ', 3.812485456466675)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(9, 12), (10, 11), (10, 8), (11, 9), (8, 10), (8, 9)])
+('[bots]best_score:', 3, 'best_move: ', (9, 12))
+("[bots]Computer's's move: ", (9, 12))
+(9, 12)
+('[engine]Search time: ', 5.312081813812256)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(10, 12), (10, 11), (8, 12), (10, 8), (11, 9), (8, 10), (8, 9)])
+('[bots]best_score:', 13, 'best_move: ', (10, 12))
+('[bots]best_score:', 15, 'best_move: ', (10, 11))
+("[bots]Computer's's move: ", (10, 11))
+(10, 11)
+('[engine]Search time: ', 8.967514753341675)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(10, 12), (8, 12), (10, 8), (11, 9), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', -796, 'best_move: ', (10, 12))
+('[bots]best_score:', 5, 'best_move: ', (8, 12))
+("[bots]Computer's's move: ", (8, 12))
+(8, 12)
+('[engine]Search time: ', 7.841827154159546)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 11), (8, 13), (10, 12), (10, 8), (11, 9), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', 4, 'best_move: ', (7, 11))
+('[bots]best_score:', 5, 'best_move: ', (8, 13))
+("[bots]Computer's's move: ", (8, 13))
+(8, 13)
+('[engine]Search time: ', 9.954116106033325)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 11), (7, 13), (10, 12), (9, 13), (10, 8), (11, 9), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', 5, 'best_move: ', (7, 11))
+('[bots]best_score:', 13, 'best_move: ', (10, 12))
+("[bots]Computer's's move: ", (10, 12))
+(10, 12)
+('[engine]Search time: ', 12.559099912643433)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 11), (7, 13), (9, 13), (10, 8), (11, 9), (11, 12), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', -2, 'best_move: ', (7, 11))
+('[bots]best_score:', -1, 'best_move: ', (7, 13))
+('[bots]best_score:', 3, 'best_move: ', (9, 13))
+('[bots]best_score:', 14, 'best_move: ', (11, 12))
+("[bots]Computer's's move: ", (11, 12))
+(11, 12)
+('[engine]Search time: ', 9.68565583229065)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 11), (7, 13), (9, 13), (10, 8), (11, 9), (10, 13), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', 1, 'best_move: ', (7, 11))
+('[bots]best_score:', 3, 'best_move: ', (7, 13))
+('[bots]best_score:', 5, 'best_move: ', (9, 13))
+("[bots]Computer's's move: ", (9, 13))
+(9, 13)
+('[engine]Search time: ', 13.130903959274292)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(7, 11), (7, 13), (9, 14), (10, 13), (10, 8), (11, 9), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', 15, 'best_move: ', (7, 11))
+("[bots]Computer's's move: ", (7, 11))
+(7, 11)
+('[engine]Search time: ', 38.9079008102417)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(7, 12), (7, 13), (9, 14), (10, 13), (10, 8), (11, 9), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', 13, 'best_move: ', (7, 12))
+("[bots]Computer's's move: ", (7, 12))
+(7, 12)
+('[engine]Search time: ', 14.984251260757446)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 11), (7, 13), (9, 14), (10, 13), (10, 8), (11, 9), (11, 11), (8, 10), (8, 9)])
+('[bots]best_score:', -3, 'best_move: ', (7, 13))
+('[bots]best_score:', 4, 'best_move: ', (9, 14))
+('[bots]best_score:', 11, 'best_move: ', (10, 13))
+('[bots]best_score:', 12, 'best_move: ', (10, 8))
+('[bots]best_score:', 14, 'best_move: ', (8, 9))
+("[bots]Computer's's move: ", (8, 9))
+(8, 9)
+('[engine]Search time: ', 52.415610551834106)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 11), (7, 13), (9, 14), (10, 13), (10, 8), (11, 9), (11, 11), (8, 10), (9, 8)])
+('[bots]best_score:', -1, 'best_move: ', (6, 11))
+('[bots]best_score:', 0, 'best_move: ', (9, 14))
+('[bots]best_score:', 4, 'best_move: ', (11, 9))
+('[bots]best_score:', 13, 'best_move: ', (9, 8))
+("[bots]Computer's's move: ", (9, 8))
+(9, 8)
+('[engine]Search time: ', 18.25227403640747)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 11), (7, 13), (8, 8), (10, 8), (9, 14), (10, 13), (11, 9), (11, 11), (8, 10)])
+('[bots]best_score:', 2, 'best_move: ', (7, 13))
+('[bots]best_score:', 3, 'best_move: ', (10, 8))
+('[bots]best_score:', 4, 'best_move: ', (10, 13))
+('[bots]best_score:', 5, 'best_move: ', (8, 10))
+("[bots]Computer's's move: ", (8, 10))
+(8, 10)
+('[engine]Search time: ', 32.89948010444641)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 11), (7, 13), (8, 8), (10, 8), (9, 14), (10, 13), (11, 9), (11, 11), (7, 10), (7, 9)])
+('[bots]best_score:', 3, 'best_move: ', (6, 11))
+('[bots]best_score:', 9, 'best_move: ', (7, 13))
+('[bots]best_score:', 11, 'best_move: ', (8, 8))
+('[bots]best_score:', 15, 'best_move: ', (10, 8))
+('[bots]best_score:', 21, 'best_move: ', (11, 11))
+("[bots]Computer's's move: ", (11, 11))
+(11, 11)
+('[engine]Search time: ', 21.726377725601196)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 11), (7, 13), (8, 8), (10, 8), (9, 14), (10, 13), (11, 9), (12, 10), (12, 12), (7, 10), (7, 9)])
+('[bots]best_score:', 9, 'best_move: ', (7, 13))
+("[bots]Computer's's move: ", (7, 13))
+(7, 13)
+('[engine]Search time: ', 68.76195859909058)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 11), (6, 13), (8, 8), (10, 8), (9, 14), (10, 13), (11, 9), (12, 10), (12, 12), (7, 10), (8, 14), (7, 9)])
+('[bots]best_score:', 19, 'best_move: ', (6, 11))
+('[bots]best_score:', 25, 'best_move: ', (8, 8))
+('[bots]best_score:', 10000, 'best_move: ', (10, 8))
+("[bots]Computer's's move: ", (10, 8))
+(10, 8)
+('[engine]Search time: ', 19.165539741516113)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 11), (6, 13), (8, 8), (9, 7), (9, 14), (10, 13), (11, 8), (11, 9), (12, 10), (12, 12), (7, 10), (8, 14), (7, 9)])
+('[bots]best_score:', -2201, 'best_move: ', (6, 13))
+('[bots]best_score:', -1796, 'best_move: ', (8, 8))
+('[bots]best_score:', -605, 'best_move: ', (9, 7))
+('[bots]best_score:', 1, 'best_move: ', (7, 9))
+("[bots]Computer's's move: ", (7, 9))
+(7, 9)
+('[engine]Search time: ', 45.90240263938904)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(6, 11), (6, 13), (8, 8), (9, 7), (9, 14), (10, 13), (11, 8), (11, 9), (12, 10), (12, 12), (7, 10), (8, 14)])
+('[bots]best_score:', 10000, 'best_move: ', (6, 11))
+("[bots]Computer's's move: ", (6, 11))
+(6, 11)
+('[engine]Search time: ', 3.0022366046905518)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(6, 12), (7, 10), (6, 13), (8, 8), (9, 7), (9, 14), (10, 13), (11, 8), (11, 9), (12, 10), (12, 12), (8, 14)])
+('[bots]best_score:', -401, 'best_move: ', (6, 12))
+("[bots]Computer's's move: ", (6, 12))
+(6, 12)
+('[engine]Search time: ', 8.07282280921936)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(5, 11), (7, 10), (6, 13), (8, 8), (9, 7), (9, 14), (10, 13), (11, 8), (11, 9), (12, 10), (12, 12), (8, 14)])
+('[bots]best_score:', 10000, 'best_move: ', (5, 11))
+("[bots]Computer's's move: ", (5, 11))
+(5, 11)
+('[engine]Search time: ', 18.22513222694397)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(5, 12), (6, 10), (7, 10), (6, 13), (8, 8), (9, 7), (9, 14), (10, 13), (11, 8), (11, 9), (12, 10), (12, 12), (8, 14)])
+('[bots]best_score:', -602, 'best_move: ', (5, 12))
+('[bots]best_score:', -5, 'best_move: ', (6, 10))
+('[bots]best_score:', 1, 'best_move: ', (7, 10))
+('[bots]best_score:', 4, 'best_move: ', (6, 13))
+("[bots]Computer's's move: ", (6, 13))
+(6, 13)
+('[engine]Search time: ', 69.02956986427307)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(5, 12), (6, 10), (7, 10), (8, 8), (9, 7), (9, 14), (10, 13), (11, 8), (11, 9), (12, 10), (12, 12), (5, 13), (7, 14), (8, 14)])
+('[bots]best_score:', 15, 'best_move: ', (5, 12))
+('[bots]best_score:', 10000, 'best_move: ', (6, 10))
+("[bots]Computer's's move: ", (6, 10))
+(6, 10)
+('[engine]Search time: ', 28.588197231292725)
+
+----------  BOT-2's TURN ---------- 
+('[bots]Available_moves: ', [(5, 10), (5, 12), (7, 10), (6, 9), (8, 8), (9, 7), (9, 14), (10, 13), (11, 8), (11, 9), (12, 10), (12, 12), (5, 13), (7, 14), (8, 14)])
+('[bots]best_score:', -799, 'best_move: ', (5, 10))
+('[bots]best_score:', -795, 'best_move: ', (5, 12))
+('[bots]best_score:', -605, 'best_move: ', (9, 7))
+('[bots]best_score:', 15, 'best_move: ', (10, 13))
+("[bots]Computer's's move: ", (10, 13))
+(10, 13)
+('[engine]Search time: ', 79.69649338722229)
+
+----------  BOT-1's TURN  ---------- 
+('[bots]Available_moves: ', [(5, 10), (5, 12), (7, 10), (6, 9), (8, 8), (9, 7), (9, 14), (10, 14), (11, 8), (11, 9), (12, 10), (12, 12), (5, 13), (7, 14), (8, 14), (11, 13)])
+('[bots]best_score:', 4, 'best_move: ', (5, 10))
+('[bots]best_score:', 99969, 'best_move: ', (9, 7))
+("[bots]Computer's's move: ", (9, 7))
+(9, 7)
+('[engine]Search time: ', 146.98947954177856)
+-- Bot-1 wins!
